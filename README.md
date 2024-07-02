@@ -7,7 +7,7 @@ I'm expertise in React.js, Express.js, MongoDB, Tailwind CSS, Bootstrap, HTML, F
 
 Skills:  HTML / CSS / TAILWIND / JAVASCRIPT / REACT / FIREBASE / MONGODB / NODE.JS / EXPRESS 
 
-## Current Stats
+## 📊 Current Stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Naimul02)
 
 ## 🌐 Reach me out 
