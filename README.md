@@ -3,7 +3,7 @@
 ![Web Developer](https://i.ibb.co/0FDgYFj/Gray-Modern-Digital-Marketing-Linkedln-Article-Cover-Image.png)
 
 ## 💫 About Me
-I'm expertise in React.js, Express.js, MongoDB, Tailwind CSS, Bootstrap, HTML, Firebase, and CSS. I'm highly proficient in JavaScript and have experience working with JWT authentication and building and consuming APIs. Additionally, I am familiar with Node.js and its powerful capabilities. In my toolkit, I utilize various tools to enhance my development process. These include Firebase for rapid prototyping, VS Code as my preferred code editor, Figma for design collaboration, Netlify and Vercel for deployment, and Git and GitHub for version control and collaboration. I am also proficient in using Chrome Dev Tools for debugging and optimizing web applications.
+I'm proficient in react.js,firebase,tailwindcss,html,css.Also I have knowledge about javascript,mongodb,express,node.js.I can use the jwt token in the project.I can implement the task of who can be admin and who can be normal user on a website.I am very caring and dedicated person towards my work.I love my work very much
 
 Skills:  HTML / CSS / TAILWIND / JAVASCRIPT / REACT / FIREBASE / MONGODB / NODE.JS / EXPRESS 
 
